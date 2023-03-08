@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.adithyamathe.propconfig.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.adithyamathe.propconfig.MyBundle
 
 class MyApplicationService {
 
